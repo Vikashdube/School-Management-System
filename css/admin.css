@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: aqua;
+    line-height: 60px;
+    padding-left: 30px;
+    position: relative;
+
+}
+    
+a{
+    text-decoration: none;
+    /* font-size: 25px; */
+    /* font-weight: bold; */
+    
+}
+.logout{
+    float: right;
+    padding-right: 30px;
+}
+
+ul{
+    background-color: antiquewhite;
+    width: 26%;
+    height: 100%;
+    position: fixed;
+    padding-top: 2%;
+    padding-left: 7%;
+    /* text-align: center; */
+}
+
+ul li{
+    list-style: none;
+    padding-bottom: 30px;
+    font-size: 15px;
+    /* color: black; */
+}
+
+.content{
+    margin-left: 30%;
+    margin-top: 3%;
+    margin-right: 5%;
+}
